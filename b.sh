@@ -11,6 +11,7 @@
 # now apt update nano
 # touch monitor.log
 # nano monitor.sh
+# nano command helps to write the code in the bash file 
 # in bash file 
 
 #!/bin/bash
