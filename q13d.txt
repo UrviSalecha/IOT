@@ -1,0 +1,11 @@
+auto.offset.reset=earliest vs auto.offset.reset=latest
+
+differences are as follows:
+In easy words auto.offset.reset=earliest means 
+if no initial offset is found, start consuming from the earliest message in the topic
+real life analogy : if we watch a movie and we start from the beginning then we are using earliest 
+
+################ WHERE AS ################
+
+latest means if no initial offset is found start consuming from the latest message in the topic
+watching a movie from where we left it 

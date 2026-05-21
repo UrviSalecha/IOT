@@ -1,0 +1,5 @@
+Race condition in server when two clients disconnect simultaneously the server will crash out with Run Time error
+# to fix this we need to add a mutex lock to the server code
+# if lock not applied might lead to deadlock due to mutual exclusion 
+# reolution using threading.lock()
+# in python to create a lock and acquire it before modifying sharing resources 

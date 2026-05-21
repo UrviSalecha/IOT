@@ -1,0 +1,27 @@
+MCQ sequentially answers:
+1. Flag in TCP header for 3 way handshake:
+answer: B) SYN
+
+2. UDP over TCP 
+answer: Low latency matters more than gauranteed delivery
+
+3. Python threading module which used to prevent race conditions on shared data
+answer: C) lock/mutex
+
+4. Mqtt QoS level for exactly one
+Answer : B) Qos 1
+5. A) cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
+6. Partition offset in Apache Kafka reprents
+answer: B) A unique sequential ...
+
+7. Linux command to monitor real time CPU and memory usage
+C) top/htop
+
+8. Redis EXPIRE key 60 do
+answer: b) sets the key to automatically expire after 60 seconfs
+
+9. daemon=True will
+answer: b) terminate automatically when the main program exits
+
+10. Kafka primary role of a consumer group
+answer b) enable parallel messageing consumption with load balancing 
